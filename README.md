@@ -18,7 +18,7 @@ For more information about this sample see: https://support.brightcove.com/brigh
       <td>All the application code, HTML, CSS and JavaScript, in a single file.</td>
     </tr>
     <tr>
-      <td>webvtt/index.html</td>
+      <td>webvtt-sample/index.html</td>
       <td>This example passes a custom WebVTT file with thumbnail images to the player.</td>
     </tr>
   </tbody>
